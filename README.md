@@ -1,25 +1,25 @@
-### Hi there 👋, i´m Gabriella Paz
-- 🌱 Atualmente estou cursando Sistemas de Informação <br>
+# Eii! Eu sou a Gabriella Paz
 
-  🔭 Estudando mais sobre: <br>
-- HTML <br>
-- CSS <br>
-- C# <br>
- 
-<!--
-**gabpazz/gabpazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação  
+💻 Tecnologia | Projetos
 
-Here are some ideas to get you started:
+### Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 Atualmente estou cursando Sistemas de Informação 
- Estudando mais sobre: 
- HTML ![image](https://github.com/gabpazz/gabpazz/assets/124802846/f8a73ba7-9e27-4acf-908d-3930fe5276db)
- CSS 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Sistemas de Informação e tenho interesse em utilizar a tecnologia para resolver problemas, melhorar processos e criar soluções melhores.
+
+Atualmente, estou desenvolvendo minhas habilidades em programação, automação e gestão de projetos, enquanto exploro diferentes áreas da tecnologia para descobrir onde posso gerar mais impacto.
+
+### Atualmente estudando
+
+- Python
+- C#
+- Git & GitHub
+- HTML & CSS
+- Gestão de Projetos
+
+### Áreas de interesse
+
+🚀 Gestão de Projetos  
+🤖 Automação  
+💻 Desenvolvimento de Software  
+📈 Tecnologia & Negócios
